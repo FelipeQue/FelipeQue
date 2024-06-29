@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hello hello hello 👋
+
+Meu nome é Felipe, sou natural de Recife e atualmente moro em Florianópolis. Sou designer, desenvolvedor e artista, e estou construindo uma transição de carreira para desenvolvimento de software. (No momento estudando JAVA e Spring.)
+
+- **Formação**: graduação em Design Gráfico pelo IFPE e mestre em Psicologia Cognitiva pela UFPE. E mais duas especializações lato sensu em outras áreas.
+- **Experiência Profissional**: Atuei como designer de interação, designer UX e artista de jogos com foco em mobile.
+- **Transição de Carreira**: Depois de 8 anos como artista e professor de circo, decidi voltar à área de tecnologia. Atualmente, estou cursando a formação Fullstack do programa Floripa Mais Tec (SENAI/SC, SEBRAE, ACATE e Prefeitura de Florianópolis).
+- **Habilidades Técnicas**:
+  - Design: Photoshop, Scribus, InDesign, Illustrator, Inkscape;
+  - Desenvolvimento Web: HTML, CSS, JavaScript, TypeScript, Angular;
+  - Linguagens de Programação: Java, Python;
+  - Controle de Versão: Git (GitHub, Git Flow);
+  - Idiomas: Inglês fluente, Francês B2.
+ 
+Fique à vontade para em entrar em contato! 😊
+
+
+
 
 <!--
 **FelipeQue/FelipeQue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
