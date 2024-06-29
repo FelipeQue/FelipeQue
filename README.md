@@ -12,7 +12,9 @@ Meu nome é Felipe, sou natural de Recife e atualmente moro em Florianópolis. S
   - Controle de Versão: Git (GitHub, Git Flow);
   - Idiomas: Inglês fluente, Francês B2.
  
-Fique à vontade para em entrar em contato! 😊
+Fique à vontade para em entrar em contato. 😊
+
+<a href="https://www.linkedin.com/in/felipe-querette/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
