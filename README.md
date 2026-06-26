@@ -4,10 +4,11 @@ Meu nome é Felipe, sou natural de Recife e atualmente moro em Florianópolis. S
 
 - **Formação**: graduação em Design Gráfico pelo IFPE e mestre em Psicologia Cognitiva pela UFPE. E mais duas especializações lato sensu em outras áreas.
 - **Experiência Profissional**: Atuei como designer de interação, designer UX e artista de jogos com foco em mobile.
-- **Transição de Carreira**: Depois de 8 anos como artista e professor de circo, decidi voltar à área de tecnologia. Atualmente, estou cursando a formação Fullstack do programa Floripa Mais Tec (SENAI/SC, SEBRAE, ACATE e Prefeitura de Florianópolis).
+- **Transição de Carreira**: Depois de uma década atuando como artista e professor de circo, decidi voltar à área de tecnologia. Cursei em 2024 a formação profissional fullstack do programa Floripa Mais Tec (SENAI/SC, SEBRAE, ACATE e Prefeitura de Florianópolis) e atualmente, estou realizando a formação profissional em desenvolvimento de inteligência artificial preditiva.
 - **Habilidades Técnicas**:
   - Design: Photoshop, Scribus, InDesign, Illustrator, Inkscape;
-  - Desenvolvimento Web: HTML, CSS, JavaScript, TypeScript, Angular;
+  - Desenvolvimento Web: HTML, CSS, JavaScript, TypeScript, Angular, Spring;
+  - Análise de dados: Pandas, Numpy;
   - Linguagens de Programação: Java, Python;
   - Controle de Versão: Git (GitHub, Git Flow);
   - Idiomas: Inglês fluente, Francês B2.
