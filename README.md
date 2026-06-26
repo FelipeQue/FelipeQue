@@ -1,6 +1,6 @@
 ## Hello hello hello 👋
 
-Meu nome é Felipe, sou natural de Recife e atualmente moro em Florianópolis. Sou designer, desenvolvedor e artista, e estou construindo uma transição de carreira para desenvolvimento de software. (No momento estudando JAVA e Spring.)
+Meu nome é Felipe, sou natural de Recife e atualmente moro em Florianópolis. Sou designer, desenvolvedor e artista, e estou construindo uma transição de carreira para desenvolvimento de software. (No momento estudando desenvolvimento de modelos preditivos.)
 
 - **Formação**: graduação em Design Gráfico pelo IFPE e mestre em Psicologia Cognitiva pela UFPE. E mais duas especializações lato sensu em outras áreas.
 - **Experiência Profissional**: Atuei como designer de interação, designer UX e artista de jogos com foco em mobile.
